@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+}
+.moon {
+	width: 600px;
+	height: 300px;
+	border:1px solid silver;
+	box-shadow:0 0 10px rgba(0,0,0,0.5);
+	margin:200px;
+}
+
+.left {
+	width: 280px;
+	float:left;
+	height: 280px;
+	padding: 10px;
+}
+.right {
+	width: 300px;
+	float:right;
+	overflow: fragments;
+	height: 300px;
+}
+p {
+	font-size: 13px;
+	margin:10px;
+	line-height: 150%;
+	text-indent: 20px;
+}
+
+h3 {
+	text-align: right;
+	background-color: #c0c0c0;
+	padding: 10px;
+	margin-top:10px;
+}

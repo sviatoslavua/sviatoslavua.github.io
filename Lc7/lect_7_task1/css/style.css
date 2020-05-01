@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	width:60%;
+	min-height:50px;
+	margin-left:20%;
+	margin-top:100px;
+}
+
+.block{
+	width:22%;
+	height:150px;
+	background-color:blue;
+	border:5px solid orange;
+	float:left;
+}

@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	width:60%;
+	height600px;
+	margin-top:20px;
+	margin-left:20%;
+	background-color:#00CED1;
+}
+
+.clouds{
+	width:80%;
+	height:150px;
+	margin-left:30%;
+}
+
+.world{
+	margin-bottom:-50px;	
+}
+
+.ship{
+	width:20%;
+	height:150px;
+	margin-top:-180px;
+}
+
+.water{
+	margin-top:-15px;
+}
